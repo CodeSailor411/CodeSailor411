@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeSailor411
-- 👀 I’m interested in Full-Stack web development and problem solving
-- 🌱 I’m currently learning OOP Python and looking forward to acquire knowledge in machine learning
+- 👀 I’m interested in AI ,NLP and problem solving
+- 🌱 I’m currently learning LLM technology and looking forward to acquire knowledge in machine learning
 - 💞️ I’m looking to collaborate on projects that would enhance the quality of health service and healthcare
 - 📫 How to reach me :thabetelyes@gmail.com
 
